@@ -1,0 +1,17 @@
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/bin/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.deps.json
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/bin/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.dll
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/bin/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.pdb
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/bin/Debug/net8.0/MiEmpresa.MiProducto.Application.dll
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/bin/Debug/net8.0/MiEmpresa.MiProducto.Domain.dll
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/bin/Debug/net8.0/MiEmpresa.MiProducto.Application.pdb
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/bin/Debug/net8.0/MiEmpresa.MiProducto.Domain.pdb
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.csproj.AssemblyReference.cache
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.AssemblyInfoInputs.cache
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.AssemblyInfo.cs
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.csproj.CoreCompileInputs.cache
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.csproj.CopyComplete
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.dll
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/refint/MiEmpresa.MiProducto.Infrastructure.dll
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/MiEmpresa.MiProducto.Infrastructure.pdb
+/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Infrastructure/obj/Debug/net8.0/ref/MiEmpresa.MiProducto.Infrastructure.dll

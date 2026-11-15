@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MiEmpresa.MiProducto.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MiEmpresa.MiProducto.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiEmpresa.MiProducto.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiEmpresa.MiProducto.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MiEmpresa.MiProducto.Domain/MiEmpresa.MiProducto.Domain.csproj",
+      "msbuildProject": "../MiEmpresa.MiProducto.Domain/MiEmpresa.MiProducto.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MiEmpresa.MiProducto.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/mint/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Application/MiEmpresa.MiProducto.Application.csproj",
+      "projectName": "MiEmpresa.MiProducto.Application",
+      "projectPath": "/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Application/MiEmpresa.MiProducto.Application.csproj",
+      "packagesPath": "/home/mint/.nuget/packages/",
+      "outputPath": "/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/mint/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Domain/MiEmpresa.MiProducto.Domain.csproj": {
+              "projectPath": "/home/mint/MiEmpresa.MiProducto/src/MiEmpresa.MiProducto.Domain/MiEmpresa.MiProducto.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.134/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
